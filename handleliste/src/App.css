@@ -1,0 +1,26 @@
+div {
+    font-size: 25px;
+    text-align: center;
+}
+.input{
+    font-size: 15px;
+}
+.todo-list {
+
+}
+.item {
+    float:center;
+}
+.deletebtn {
+    font-size:4px;
+    float:right;
+}
+.completebtn {
+    font-size: 4px;
+}
+
+h1 {
+    background-color:#5c5c5c;
+    padding: 50px;
+    font-size: 66px;
+}
